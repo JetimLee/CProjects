@@ -2,8 +2,7 @@
 
 int main()
 {
-    int grade1;
-    int grade2;
+    int grade1, grade2;
 
     printf("Enter the first grade: ");
     scanf("%d", &grade1);
