@@ -17,7 +17,7 @@ int main()
 
     // Calculate the nth term and sum of the series
     float an = a1 + (n - 1) * d;
-    float sn = (a1 + an) * (n / 2.0);
+    float sn = (a1 + an) * n / 2.0;
 
     // Print the result
     printf("The sum of the arithmetic series is: %f\n", sn);
