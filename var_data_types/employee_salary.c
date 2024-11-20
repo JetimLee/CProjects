@@ -5,7 +5,7 @@ int main()
     float salary, hours_worked_in_a_month, total;
 
     // Prompt the user to enter values for d, a1, and n
-    printf("Enter the employee salary: ");
+    printf("Enter the employee salary per hour: ");
     scanf("%f", &salary);
 
     printf("Enter the hours worked for the month: ");
